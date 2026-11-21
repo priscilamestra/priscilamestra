@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Priscila Mestra
 
-**`AI Automation Developer`**
+**`AI GTM Engineer`**
 
 I’ve always been driven by the curiosity to understand the behind-the-scenes of things. After navigating through various fronts in Marketing, I noticed a clear gap: the operational distance between creative processes and technology. To fill this gap, in 2020, I dove into Python, to merge my strategic background with the building of AI-First solutions. As a postgraduate specialist in Artificial Intelligence Applied to Growth Marketing, today I develop logical architectures, agents, and automations. 
 
