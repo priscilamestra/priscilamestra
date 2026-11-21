@@ -1,3 +1,4 @@
+
 # 👩🏽‍💻 Priscila Mestra
 
 **`AI GTM Engineer`**
@@ -44,11 +45,38 @@ My core stack involves Python, n8n, APIs, RAG and agentic workflows.
 
 <img 
     align="left" 
+    alt="Pydantic" 
+    title="Pydantic"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/pydantic/E92063" 
+/>
+
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Playwright" 
     title="Playwright"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
 <img 
@@ -67,15 +95,6 @@ My core stack involves Python, n8n, APIs, RAG and agentic workflows.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="VS Code" 
-    title="VS Code"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 
 <img 
@@ -120,5 +139,5 @@ My core stack involves Python, n8n, APIs, RAG and agentic workflows.
     title="Streamlit"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.readmecodegen.com/api/social-icon?name=streamlit" alt="streamlit" 
+    src="https://www.readmecodegen.com/api/social-icon?name=streamlit" 
 />
